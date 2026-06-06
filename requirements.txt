@@ -1,0 +1,7 @@
+streamlit>=1.35
+pandas>=2.0
+openpyxl>=3.1
+plotly>=5.20
+numpy>=1.26
+gspread>=6.1
+google-auth>=2.29
